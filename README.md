@@ -6,9 +6,7 @@
   <a href="#-licenca">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
-<div align="center">
-    <img src="img/Quiz.png" width="50%">
-</div>
+
 
 ## 🚀 Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
