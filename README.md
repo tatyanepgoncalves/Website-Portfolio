@@ -14,13 +14,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-- FontAwsomme
+- Font Awesomme
 - GitHub 
 
 
 ## 💻 Projeto
-Esse projeto realizei juntamente com a Rocketseat através do NLW Expert, testando os meus conhecimentos técnicos e aprendedo novas caracteristicas das linguagens usadas.
+Esse projeto realizei com objetivo de testar os meus conhecimentos técnicos ligados as linguagens usadas e construir o site para divulgar meu trabalho.
  
 
-📝 Licença
+## 📝 Licença
 Esse projeto está sob a licença MIT.
